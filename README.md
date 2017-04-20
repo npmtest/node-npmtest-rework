@@ -1,4 +1,7 @@
-# test coverage for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmtest-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rework.svg)](https://travis-ci.org/npmtest/node-npmtest-rework)
+# npmtest-rework
+
+#### basic test coverage for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmtest-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rework.svg)](https://travis-ci.org/npmtest/node-npmtest-rework)
+
 #### Plugin framework for CSS preprocessing
 
 [![NPM](https://nodei.co/npm/rework.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rework)
